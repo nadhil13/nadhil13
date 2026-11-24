@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="118" viewBox="0 0 880 118">
+  <style>
+    text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 29px; font-weight: 700; letter-spacing: 0.2px; }
+    .w { opacity: 0; animation: reveal 13s ease-in-out infinite; }
+    @keyframes reveal {
+      0% { opacity: 0; transform: translateY(10px); }
+      8% { opacity: 1; transform: translateY(0); }
+      82% { opacity: 1; transform: translateY(0); }
+      94% { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .d1 { animation-delay: 0.10s; } .d2 { animation-delay: 0.19s; }
+    .d3 { animation-delay: 0.28s; } .d4 { animation-delay: 0.37s; }
+    .d5 { animation-delay: 0.46s; } .d6 { animation-delay: 0.55s; }
+    .d7 { animation-delay: 0.64s; } .d8 { animation-delay: 0.73s; }
+    .d9 { animation-delay: 0.82s; } .d10 { animation-delay: 0.91s; }
+    .d11 { animation-delay: 1.00s; } .d12 { animation-delay: 1.09s; }
+    .d13 { animation-delay: 1.18s; } .d14 { animation-delay: 1.27s; }
+    .d15 { animation-delay: 1.36s; }
+  </style>
+  <text x="440" y="44" text-anchor="middle" fill="#1F2328"><tspan class="w d1">I </tspan><tspan class="w d2">build </tspan><tspan class="w d3">web </tspan><tspan class="w d4">platforms </tspan><tspan class="w d5">that </tspan><tspan class="w d6">end </tspan><tspan class="w d7">up</tspan></text>
+  <text x="440" y="90" text-anchor="middle" fill="#1F2328"><tspan class="w d8">in </tspan><tspan class="w d9">people's </tspan><tspan class="w d10">daily </tspan><tspan class="w d11">work </tspan><tspan class="w d12" fill="#035B71">— </tspan><tspan class="w d13" fill="#035B71">not </tspan><tspan class="w d14" fill="#035B71">just </tspan><tspan class="w d15" fill="#035B71">demos.</tspan></text>
+</svg>
