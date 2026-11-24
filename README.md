@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:035B71,100:00B6B9&height=220&section=header&text=Muhammad%20Nadhil%20Arsy%20Al-Wafi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Informatics%20Engineering%20%E2%80%A2%20Web%20%26%20Software%20Development&descSize=16&descAlignY=56" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:035B71,100:00B6B9&height=200&section=header&text=Muhammad%20Nadhil%20Arsy%20Al-Wafi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <a href="https://github.com/nadhil13">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00B6B9&center=true&vCenter=true&width=640&lines=Informatics+Engineering+Student+%40+ITPLN+%E2%80%94+GPA+3.81%2F4.00;Laboratory+Assistant+%E2%80%A2+Software+Coordinator+Division;Building+PERFORMA+ITPLN+%E2%80%94+a+KPI+Platform+Used+by+22+Units;National+Mathematics+Olympiad+Champion" alt="Typing SVG" />
