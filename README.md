@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:035B71,100:00B6B9&height=200&section=header&text=Muhammad%20Nadhil%20Arsy%20Al-Wafi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <a href="https://github.com/nadhil13">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00B6B9&center=true&vCenter=true&width=640&lines=Informatics+Engineering+Student+%40+ITPLN+%E2%80%94+GPA+3.81%2F4.00;Laboratory+Assistant+%E2%80%A2+Software+Coordinator+Division;Building+PERFORMA+ITPLN+%E2%80%94+a+KPI+Platform+Used+by+22+Units;National+Mathematics+Olympiad+Champion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1400&color=00B6B9&center=true&vCenter=true&width=640&lines=Informatics+Engineering+Student+%E2%80%94+GPA+3.81%2F4.00;I+build+software+for+real+operations;KPI+Platforms+%C2%B7+Warehouse+Systems+%C2%B7+Web+Apps;National+Mathematics+Olympiad+Champion" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,23 +13,40 @@
 <a href="mailto:nadhil564@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=nadhil13&label=Profile%20Views&color=035B71&style=for-the-badge" alt="Profile Views"/>
 
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadhil13/nadhil13/main/status-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadhil13/nadhil13/main/status-light.svg">
+  <img src="https://raw.githubusercontent.com/nadhil13/nadhil13/main/status-light.svg" alt="Currently — Intern at PRP ITPLN · Building PERFORMA ITPLN" width="880"/>
+</picture>
+
 </div>
 
 ---
 
 ## About Me
 
-I'm an Informatics Engineering student at **Institut Teknologi PLN (ITPLN)** in Jakarta, originally from Padang, West Sumatra. I build web platforms that end up in people's daily work — not just demos.
+<div align="center">
 
-Right now I'm an intern at ITPLN's Planning & Development Centre (PRP), where I built **PERFORMA ITPLN**, a KPI management platform that tracks 29 indicators and 47 data entries across 22 university units, with role-based access so every unit sees only its own data. Before that, I interned at **PLN ULP Tabing** and built a warehouse material-return app that replaced a manual process — the work received an award from the unit.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadhil13/nadhil13/main/word-reveal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadhil13/nadhil13/main/word-reveal-light.svg">
+  <img src="https://raw.githubusercontent.com/nadhil13/nadhil13/main/word-reveal-light.svg" alt="I build web platforms that end up in people's daily work — not just demos." width="880"/>
+</picture>
 
-Alongside my studies I work as a **Laboratory Assistant (Software Coordinator division)** at ITPLN's Software Architecture & Quality Lab, and as a remote **IT Assistant** for Pinnacle Tech Solutions. My mathematics olympiad background — national champion, plus gold and silver medals in national chemistry olympiads — is where my habit of breaking hard problems into clean logic comes from.
+</div>
 
-- 🎓 Informatics Engineering, ITPLN — GPA **3.81/4.00**, class of 2027
-- 🏢 Intern, Performance Control Division — PRP ITPLN (Sep – Dec 2026)
-- 🔬 Laboratory Assistant since Aug 2024 — Software Architecture & Quality Lab
-- 🌐 Google Student Ambassador (2025) · Populix Ambassador
-- 📫 Open to software engineering internships and collaborations
+I'm Nadhil, an Informatics Engineering student at ITPLN (GPA 3.81) from Padang, West Sumatra.
+
+I build software for real operations. At ITPLN's Planning & Development Centre, I built PERFORMA ITPLN, the KPI platform that tracks 29 indicators across 22 university units — each unit sees only its own data. At PLN ULP Tabing, I replaced a manual warehouse returns process with a web app that received an award from the unit.
+
+Alongside that, I work as a laboratory assistant (Software Coordinator division) at the Software Architecture & Quality Lab, and remotely as an IT Assistant for Pinnacle Tech Solutions.
+
+Before code, there were olympiads: national mathematics champion, plus gold and silver medals in national chemistry olympiads. Same habit, different arena — hard problems, taken apart cleanly.
+
+Open to software engineering internships: nadhil564@gmail.com
 
 ---
 
