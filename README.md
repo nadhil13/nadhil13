@@ -59,9 +59,9 @@ Alongside my studies I work as a **Laboratory Assistant (Software Coordinator di
 
 | | |
 |---|---|
-| <a href="https://github.com/nadhil13/IKU-KPI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=IKU-KPI&bg_color=0D1117&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71" alt="IKU-KPI"/></a> | <a href="https://github.com/nadhil13/pln-ulp-tabing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=pln-ulp-tabing&bg_color=0D1117&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71" alt="pln-ulp-tabing"/></a> |
-| <a href="https://github.com/nadhil13/GridForecast"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=GridForecast&bg_color=0D1117&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71" alt="GridForecast"/></a> | <a href="https://github.com/nadhil13/sistem-pakar-listrik"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=sistem-pakar-listrik&bg_color=0D1117&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71" alt="sistem-pakar-listrik"/></a> |
-| <a href="https://github.com/nadhil13/bakerystore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=bakerystore&bg_color=0D1117&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71" alt="bakerystore"/></a> | <a href="https://github.com/nadhil13/pamantiak-web"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=pamantiak-web&bg_color=0D1117&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71" alt="pamantiak-web"/></a> |
+| <a href="https://github.com/nadhil13/IKU-KPI"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=IKU-KPI&bg_color=00000000&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=IKU-KPI&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=IKU-KPI&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE" alt="IKU-KPI"/></picture></a> | <a href="https://github.com/nadhil13/pln-ulp-tabing"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=pln-ulp-tabing&bg_color=00000000&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=pln-ulp-tabing&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=pln-ulp-tabing&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE" alt="pln-ulp-tabing"/></picture></a> |
+| <a href="https://github.com/nadhil13/GridForecast"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=GridForecast&bg_color=00000000&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=GridForecast&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=GridForecast&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE" alt="GridForecast"/></picture></a> | <a href="https://github.com/nadhil13/sistem-pakar-listrik"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=sistem-pakar-listrik&bg_color=00000000&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=sistem-pakar-listrik&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=sistem-pakar-listrik&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE" alt="sistem-pakar-listrik"/></picture></a> |
+| <a href="https://github.com/nadhil13/bakerystore"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=bakerystore&bg_color=00000000&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=bakerystore&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=bakerystore&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE" alt="bakerystore"/></picture></a> | <a href="https://github.com/nadhil13/pamantiak-web"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=pamantiak-web&bg_color=00000000&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=pamantiak-web&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadhil13&repo=pamantiak-web&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE" alt="pamantiak-web"/></picture></a> |
 
 </div>
 
@@ -92,20 +92,24 @@ Full history, certifications, and awards are on my [LinkedIn](https://www.linked
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nadhil13&show_icons=true&count_private=true&bg_color=0D1117&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhil13&layout=compact&bg_color=0D1117&title_color=00B6B9&text_color=E6EDF3&border_color=035B71" height="170" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nadhil13&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_rank=true&bg_color=00000000&title_color=00B6B9&text_color=E6EDF3&icon_color=00B6B9&border_color=035B71">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nadhil13&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_rank=true&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE">
+  <img src="https://github-readme-stats.vercel.app/api?username=nadhil13&show_icons=true&count_private=true&hide=prs,issues,contribs&hide_rank=true&bg_color=00000000&title_color=035B71&text_color=24292F&icon_color=035B71&border_color=D0D7DE" height="170" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhil13&layout=compact&hide=Jupyter%20Notebook&bg_color=00000000&title_color=00B6B9&text_color=E6EDF3&border_color=035B71">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhil13&layout=compact&hide=Jupyter%20Notebook&bg_color=00000000&title_color=035B71&text_color=24292F&border_color=D0D7DE">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhil13&layout=compact&hide=Jupyter%20Notebook&bg_color=00000000&title_color=035B71&text_color=24292F&border_color=D0D7DE" height="170" alt="Top Languages"/>
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=nadhil13&background=0D1117&stroke=035B71&ring=00B6B9&fire=00B6B9&currStreakLabel=00B6B9&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhil13&bg_color=0D1117&color=E6EDF3&line=00B6B9&point=00B6B9&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/nadhil13/nadhil13/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nadhil13/nadhil13/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nadhil13/nadhil13/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/nadhil13/nadhil13/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</picture>
 
 </div>
 
